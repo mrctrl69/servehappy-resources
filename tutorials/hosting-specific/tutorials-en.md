@@ -32,6 +32,7 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [IPOWER](https://www.ipower.com/help/article/scripting-how-to-switch-your-php-version)
 * [Kinsta](https://kinsta.com/knowledgebase/wordpress-php-version/)
 * [liquidweb](https://www.liquidweb.com/kb/how-to-upgrade-apache-and-php-using-cpanels-easyapache/)
+* [LiteSpeed Server] ?
 * [MediaTemple](https://mediatemple.net/community/products/dv/207889153/what's-new-in-php-7)
 * [One](https://www.one.com/en/support/faq/what-should-i-check-when-upgrading-php)
 * [Pagely](https://support.pagely.com/hc/en-us/articles/115000013092-Changing-PHP-Versions)
